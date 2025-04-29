@@ -1,6 +1,5 @@
 ```mermaid
-%% 修正版用例图（适配 Typora）
-usecaseDiagram
+useCaseDiagram
     actor 普通用户 as U
     actor 管理员 as A
     actor 系统 as S
